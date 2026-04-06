@@ -77,7 +77,8 @@ How can sales, ratings, and order data be used to improve operational efficiency
 
 ## 📊 Dashboard Preview
 
-(Add your dashboard images here)
+<img width="962" height="537" alt="image" src="https://github.com/user-attachments/assets/835c2b81-f86c-4e85-93fd-db7bb7587968" />
+)
 
 ---
 
